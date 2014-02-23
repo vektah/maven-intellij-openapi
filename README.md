@@ -13,28 +13,40 @@ This contains recent versions of the openapi jars for use with maven. To use the
 
 <dependencies>
 	<dependency>
-		<scope>provided</scope>
 		<groupId>net.vektah</groupId>
 		<artifactId>intellij-openapi</artifactId>
 		<version>12.1.4</version>
+		<scope>provided</scope>
 	</dependency>
 	<dependency>
-		<scope>provided</scope>
 		<groupId>net.vektah</groupId>
 		<artifactId>intellij-util</artifactId>
 		<version>12.1.4</version>
+		<scope>provided</scope>
 	</dependency>
 	<dependency>
-		<scope>provided</scope>
 		<groupId>net.vektah</groupId>
 		<artifactId>intellij-annotations</artifactId>
 		<version>12.1.4</version>
+		<scope>provided</scope>
 	</dependency>
 	<dependency>
 		<groupId>net.vektah</groupId>
-		<scope>provided</scope>
 		<artifactId>intellij-extensions</artifactId>
 		<version>12.1.4</version>
+		<scope>provided</scope>
+	</dependency>
+	<dependency>
+		<groupId>net.vektah</groupId>
+		<artifactId>intellij-idea</artifactId>
+		<version>12.1.4</version>
+		<scope>provided</scope>
+	</dependency>
+	<dependency>
+		<groupId>net.vektah</groupId>
+		<artifactId>intellij-trove4j</artifactId>
+		<version>12.1.4</version>
+		<scope>provided</scope>
 	</dependency>
 </dependencies>
 ```
